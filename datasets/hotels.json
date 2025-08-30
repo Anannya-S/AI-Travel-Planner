@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Tokyo Grand Hotel",
+    "city": "Tokyo",
+    "coordinates": {"lat": 35.6938, "lng": 139.7034},
+    "price_per_night": 150,
+    "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Spa"],
+    "rating": 4.5
+  },
+  {
+    "name": "Sakura Inn",
+    "city": "Tokyo",
+    "coordinates": {"lat": 35.7115, "lng": 139.7967},
+    "price_per_night": 90,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Laundry Service"],
+    "rating": 4.0
+  },
+  {
+    "name": "Shibuya Central Hotel",
+    "city": "Tokyo",
+    "coordinates": {"lat": 35.6595, "lng": 139.7005},
+    "price_per_night": 200,
+    "amenities": ["Pool", "Bar", "Free Wi-Fi", "Airport Shuttle"],
+    "rating": 4.7
+  },
+  {
+    "name": "Tokyo Bay Resort",
+    "city": "Tokyo",
+    "coordinates": {"lat": 35.6250, "lng": 139.7750},
+    "price_per_night": 250,
+    "amenities": ["Sea View", "Spa", "Gym", "Restaurant"],
+    "rating": 4.8
+  },
+  {
+    "name": "Ueno Park Hotel",
+    "city": "Tokyo",
+    "coordinates": {"lat": 35.7150, "lng": 139.7740},
+    "price_per_night": 120,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Pet Friendly"],
+    "rating": 4.2
+  },
+  {
+    "name": "Hotel de Lumière",
+    "city": "Paris",
+    "coordinates": {"lat": 48.8570, "lng": 2.3600},
+    "price_per_night": 180,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Spa"],
+    "rating": 4.6
+  },
+  {
+    "name": "Eiffel View Inn",
+    "city": "Paris",
+    "coordinates": {"lat": 48.8550, "lng": 2.2980},
+    "price_per_night": 220,
+    "amenities": ["Eiffel Tower View", "Gym", "Restaurant", "Bar"],
+    "rating": 4.8
+  },
+  {
+    "name": "Montmartre Boutique Hotel",
+    "city": "Paris",
+    "coordinates": {"lat": 48.8867, "lng": 2.3431},
+    "price_per_night": 130,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Pet Friendly"],
+    "rating": 4.3
+  },
+  {
+    "name": "Seine Riverside Hotel",
+    "city": "Paris",
+    "coordinates": {"lat": 48.8566, "lng": 2.3522},
+    "price_per_night": 200,
+    "amenities": ["River View", "Bar", "Free Wi-Fi", "Restaurant"],
+    "rating": 4.5
+  },
+  {
+    "name": "Louvre Palace Hotel",
+    "city": "Paris",
+    "coordinates": {"lat": 48.8606, "lng": 2.3376},
+    "price_per_night": 250,
+    "amenities": ["Luxury Suites", "Spa", "Gym", "Fine Dining"],
+    "rating": 4.9
+  },
+  {
+    "name": "Manhattan Central Hotel",
+    "city": "New York City",
+    "coordinates": {"lat": 40.7549, "lng": -73.9840},
+    "price_per_night": 300,
+    "amenities": ["Free Wi-Fi", "Gym", "Rooftop Bar", "Restaurant"],
+    "rating": 4.7
+  },
+  {
+    "name": "Brooklyn Comfort Inn",
+    "city": "New York City",
+    "coordinates": {"lat": 40.6782, "lng": -73.9442},
+    "price_per_night": 150,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Laundry Service"],
+    "rating": 4.2
+  },
+  {
+    "name": "Times Square Hotel",
+    "city": "New York City",
+    "coordinates": {"lat": 40.7580, "lng": -73.9855},
+    "price_per_night": 350,
+    "amenities": ["Central Location", "Gym", "Bar", "Concierge Service"],
+    "rating": 4.8
+  },
+  {
+    "name": "Central Park Suites",
+    "city": "New York City",
+    "coordinates": {"lat": 40.7812, "lng": -73.9665},
+    "price_per_night": 400,
+    "amenities": ["Park View", "Spa", "Free Wi-Fi", "Restaurant"],
+    "rating": 4.9
+  },
+  {
+    "name": "SoHo Boutique Hotel",
+    "city": "New York City",
+    "coordinates": {"lat": 40.7233, "lng": -74.0030},
+    "price_per_night": 220,
+    "amenities": ["Pet Friendly", "Free Wi-Fi", "Breakfast Included"],
+    "rating": 4.4
+  },
+  {
+    "name": "Delhi Palace Hotel",
+    "city": "New Delhi",
+    "coordinates": {"lat": 28.6328, "lng": 77.2197},
+    "price_per_night": 120,
+    "amenities": ["Free Wi-Fi", "Restaurant", "Gym", "Bar"],
+    "rating": 4.5
+  },
+  {
+    "name": "Rajpath Hotel",
+    "city": "New Delhi",
+    "coordinates": {"lat": 28.6129, "lng": 77.2295},
+    "price_per_night": 100,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Laundry Service"],
+    "rating": 4.1
+  },
+  {
+    "name": "Lodhi Luxury Hotel",
+    "city": "New Delhi",
+    "coordinates": {"lat": 28.5881, "lng": 77.2308},
+    "price_per_night": 200,
+    "amenities": ["Spa", "Gym", "Restaurant", "Free Wi-Fi"],
+    "rating": 4.8
+  },
+  {
+    "name": "Chandni Chowk Inn",
+    "city": "New Delhi",
+    "coordinates": {"lat": 28.6562, "lng": 77.2300},
+    "price_per_night": 80,
+    "amenities": ["Free Wi-Fi", "Breakfast Included", "Pet Friendly"],
+    "rating": 4.0
+  },
+  {
+    "name": "Aerocity Grand Hotel",
+    "city": "New Delhi",
+    "coordinates": {"lat": 28.5562, "lng": 77.1000},
+    "price_per_night": 180,
+    "amenities": ["Airport Shuttle", "Pool", "Gym", "Restaurant"],
+    "rating": 4.6
+  }
+]
+

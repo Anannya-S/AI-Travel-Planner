@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Tokyo Tower",
+    "city": "Tokyo",
+    "category": ["Landmark"], 
+    "coordinates": {"lat": 35.6586, "lng": 139.7454},
+    "duration": 120,
+    "opening_hours": "09:00-23:00",
+    "ticket_cost": 10,
+    "description": "An iconic red-and-white tower offering panoramic views of Tokyo and a small amusement area at its base."
+  },
+  {
+    "name": "Senso-ji Temple",
+    "city": "Tokyo",
+    "category": ["Temple", "culture", "history"],
+    "coordinates": {"lat": 35.7148, "lng": 139.7967},
+    "duration": 90,
+    "opening_hours": "06:00-17:00",
+    "ticket_cost": "Free",
+    "description": "Tokyo's oldest and most famous Buddhist temple, known for its giant lantern and bustling shopping street, Nakamise-dori."
+  },
+  {
+    "name": "Shibuya Crossing",
+    "city": "Tokyo",
+    "category": ["Landmark"],
+    "coordinates": {"lat": 35.6595, "lng": 139.7005},
+    "duration": 30,
+    "opening_hours": "00:00-23:59",
+    "ticket_cost": 0,
+    "description": "The world-famous busy pedestrian crossing, a must-see spot for experiencing Tokyo's vibrant city life."
+  },
+  {
+    "name": "Meiji Shrine",
+    "city": "Tokyo",
+    "category": ["Shrine", "culture"],
+    "coordinates": {"lat": 35.6764, "lng": 139.6993},
+    "duration": 60,
+    "opening_hours": "05:00-18:00",
+    "ticket_cost": 0,
+    "description": "A peaceful Shinto shrine surrounded by a lush forest, dedicated to Emperor Meiji and Empress Shoken."
+  },
+  {
+    "name": "Ueno Zoo",
+    "city": "Tokyo",
+    "category": ["Zoo","nature", "entertainment"],
+    "coordinates": {"lat": 35.715, "lng": 139.774},
+    "duration": 180,
+    "opening_hours": "09:30-17:00",
+    "ticket_cost": 6,
+    "description": "Japan's oldest zoo, home to pandas, tigers, and a wide variety of animals, located in scenic Ueno Park."
+  },
+  {
+    "name": "Tokyo Skytree",
+    "city": "Tokyo",
+    "category": ["Observation Tower", "sightseeing", "landmark"],
+    "coordinates": {"lat": 35.7101, "lng": 139.8107},
+    "duration": 120,
+    "opening_hours": "08:00-22:00",
+    "ticket_cost": 20,
+    "description": "A towering observation deck offering breathtaking city views, shopping, and dining options at its base."
+  },
+  {
+    "name": "Odaiba",
+    "city": "Tokyo",
+    "category": ["Entertainment", "shopping", "museums"],
+    "coordinates": {"lat": 35.625, "lng": 139.775},
+    "duration": 240,
+    "opening_hours": "10:00-22:00",
+    "ticket_cost": 0,
+    "description": "A futuristic man-made island with shopping malls, entertainment complexes, museums, and seaside views."
+  },
+  {
+    "name": "Tsukiji Outer Market",
+    "city": "Tokyo",
+    "category": ["Market", "shopping", "entertainment"],
+    "coordinates": {"lat": 35.6655, "lng": 139.7708},
+    "duration": 120,
+    "opening_hours": "05:00-14:00",
+    "ticket_cost": 0,
+    "description": "Famous for fresh seafood, sushi stalls, and traditional Japanese food items; a paradise for food lovers."
+  },
+  {
+    "name": "Akihabara",
+    "city": "Tokyo",
+    "category": ["Shopping"],
+    "coordinates": {"lat": 35.7023, "lng": 139.7745},
+    "duration": 180,
+    "opening_hours": "10:00-20:00",
+    "ticket_cost": 0,
+    "description": "Tokyo's electronic and otaku culture hub, filled with anime shops, game centers, and electronics stores."
+  },
+  {
+    "name": "Roppongi Hills",
+    "city": "Tokyo",
+    "category": ["Shopping", "Entertainment"],
+    "coordinates": {"lat": 35.6605, "lng": 139.7292},
+    "duration": 180,
+    "opening_hours": "10:00-23:00",
+    "ticket_cost": 0,
+    "description": "A modern complex with luxury shopping, art museums, fine dining, and a rooftop observation deck."
+  },
+  {
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "category": ["Landmark", "sightseeing"],
+    "coordinates": {"lat": 48.8584, "lng": 2.2945},
+    "duration": 120,
+    "opening_hours": "09:30-23:45",
+    "ticket_cost": 25,
+    "description": "The iconic symbol of Paris, offering panoramic views from its observation decks and a sparkling light show at night."
+  },
+  {
+    "name": "Louvre Museum",
+    "city": "Paris",
+    "category": ["Museum", "art"],
+    "coordinates": {"lat": 48.8606, "lng": 2.3376},
+    "duration": 210,
+    "opening_hours": "09:00-18:00",
+    "ticket_cost": 20,
+    "description": "World-famous museum housing the Mona Lisa, Venus de Milo, and thousands of art pieces from ancient to modern times."
+  },
+  {
+    "name": "Notre-Dame Cathedral",
+    "city": "Paris",
+    "category": ["Cathedral", "culture", "sightseeing"],
+    "coordinates": {"lat": 48.8529, "lng": 2.3500},
+    "duration": 60,
+    "opening_hours": "08:00-18:45",
+    "ticket_cost": 0,
+    "description": "Historic Gothic cathedral on Île de la Cité, known for its stunning architecture and famous gargoyles."
+  },
+  {
+    "name": "Montmartre & Sacré-Cœur",
+    "city": "Paris",
+    "category": ["Culture", "sightseeing"],
+    "coordinates": {"lat": 48.8867, "lng": 2.3431},
+    "duration": 120,
+    "opening_hours": "06:00-22:30",
+    "ticket_cost": 0,
+    "description": "A charming hilltop neighborhood with artistic heritage, cobbled streets, and the beautiful Sacré-Cœur Basilica."
+  },
+  {
+    "name": "Champs-Élysées & Arc de Triomphe",
+    "city": "Paris",
+    "category": ["Landmark", "sightseeing"],
+    "coordinates": {"lat": 48.8738, "lng": 2.2950},
+    "duration": 90,
+    "opening_hours": "10:00-23:00",
+    "ticket_cost": 15,
+    "description": "Famous avenue lined with shops and cafes, leading to the historic Arc de Triomphe honoring French soldiers."
+  },
+  {
+    "name": "Palace of Versailles",
+    "city": "Paris",
+    "category": ["Palace", "history", "culture"],
+    "coordinates": {"lat": 48.8049, "lng": 2.1204},
+    "duration": 240,
+    "opening_hours": "09:00-18:30",
+    "ticket_cost": 30,
+    "description": "Lavish royal palace with sprawling gardens, fountains, and the Hall of Mirrors, a symbol of French monarchy."
+  },
+  {
+    "name": "Sainte-Chapelle",
+    "city": "Paris",
+    "category": ["Chapel", "culture", "history"],
+    "coordinates": {"lat": 48.8554, "lng": 2.3450},
+    "duration": 60,
+    "opening_hours": "09:00-19:00",
+    "ticket_cost": 12,
+    "description": "A Gothic chapel famous for its stunning stained-glass windows that fill the space with colorful light."
+  },
+  {
+    "name": "Luxembourg Gardens",
+    "city": "Paris",
+    "category": ["Park", "nature"],
+    "coordinates": {"lat": 48.8462, "lng": 2.3372},
+    "duration": 90,
+    "opening_hours": "07:30-21:30",
+    "ticket_cost": 0,
+    "description": "Beautiful gardens with fountains, statues, and tree-lined promenades, perfect for relaxation and picnics."
+  },
+  {
+    "name": "Musee d'Orsay",
+    "city": "Paris",
+    "category": ["Museum", "history"],
+    "coordinates": {"lat": 48.8600, "lng": 2.3266},
+    "duration": 150,
+    "opening_hours": "09:30-18:00",
+    "ticket_cost": 18,
+    "description": "Impressionist art museum housed in a former railway station, featuring works by Monet, Van Gogh, and Renoir."
+  },
+  {
+    "name": "Seine River Cruise",
+    "city": "Paris",
+    "category": ["Tour", "nature", "sightseeing"],
+    "coordinates": {"lat": 48.8566, "lng": 2.3522},
+    "duration": 60,
+    "opening_hours": "10:00-22:00",
+    "ticket_cost": 15,
+    "description": "Scenic boat cruise along the Seine, offering views of Paris landmarks like Notre-Dame, Eiffel Tower, and Louvre."
+  },
+  {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "category": ["Landmark", "sightseeing"],
+    "coordinates": {"lat": 40.6892, "lng": -74.0445},
+    "duration": 60,
+    "opening_hours": "08:30-16:00",
+    "ticket_cost": 22,
+    "description": "Iconic symbol of freedom and democracy, accessible by ferry with panoramic views of Manhattan."
+  },
+  {
+    "name": "Central Park",
+    "city": "New York City",
+    "category": ["Park", "nature", "landmark"],
+    "coordinates": {"lat": 40.7851, "lng": -73.9683},
+    "duration": 180,
+    "opening_hours": "06:00-01:00",
+    "ticket_cost": 0,
+    "description": "Sprawling urban park offering walking trails, lakes, gardens, and recreational activities in the heart of Manhattan."
+  },
+  {
+    "name": "Times Square",
+    "city": "New York City",
+    "category": ["Landmark", "entertainment", "shopping"],
+    "coordinates": {"lat": 40.7580, "lng": -73.9855},
+    "duration": 60,
+    "opening_hours": "00:00-23:59",
+    "ticket_cost": 0,
+    "description": "Vibrant hub of neon lights, Broadway theaters, and bustling crowds, known as the 'Crossroads of the World.'"
+  },
+  {
+    "name": "Empire State Building",
+    "city": "New York City",
+    "category": ["Skyscraper", "landmark", "sightseeing"],
+    "coordinates": {"lat": 40.7484, "lng": -73.9857},
+    "duration": 120,
+    "opening_hours": "08:00-02:00",
+    "ticket_cost": 36,
+    "description": "Historic skyscraper with observation decks offering breathtaking city views day and night."
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "city": "New York City",
+    "category": ["Landmark"],
+    "coordinates": {"lat": 40.7061, "lng": -73.9969},
+    "duration": 60,
+    "opening_hours": "00:00-23:59",
+    "ticket_cost": 0,
+    "description": "Famous suspension bridge connecting Manhattan and Brooklyn, ideal for walking and photography."
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "city": "New York City",
+    "category": ["Museum", "art", "history"],
+    "coordinates": {"lat": 40.7794, "lng": -73.9632},
+    "duration": 180,
+    "opening_hours": "10:00-17:30",
+    "ticket_cost": 25,
+    "description": "One of the largest and most prestigious art museums, showcasing global art from ancient to modern times."
+  },
+  {
+    "name": "One World Observatory",
+    "city": "New York City",
+    "category": ["Observation Deck", "sightseeing", "history"],
+    "coordinates": {"lat": 40.7127, "lng": -74.0134},
+    "duration": 90,
+    "opening_hours": "09:00-21:00",
+    "ticket_cost": 38,
+    "description": "Observation deck atop One World Trade Center, offering panoramic views and a tribute to 9/11."
+  },
+  {
+    "name": "Rockefeller Center",
+    "city": "New York City",
+    "category": ["Entertainment", "Shopping"],
+    "coordinates": {"lat": 40.7587, "lng": -73.9787},
+    "duration": 60,
+    "opening_hours": "08:00-22:00",
+    "ticket_cost": 0,
+    "description": "Famous entertainment complex with shopping, dining, the Top of the Rock observation deck, and seasonal ice skating."
+  },
+  {
+    "name": "High Line",
+    "city": "New York City",
+    "category": ["Park", "art"],
+    "coordinates": {"lat": 40.7480, "lng": -74.0048},
+    "duration": 90,
+    "opening_hours": "07:00-19:00",
+    "ticket_cost": 0,
+    "description": "Elevated linear park built on a former railway, featuring gardens, art installations, and views of the city skyline."
+  },
+  {
+    "name": "Museum of Modern Art (MoMA)",
+    "city": "New York City",
+    "category": ["Museum", "art"],
+    "coordinates": {"lat": 40.7614, "lng": -73.9776},
+    "duration": 120,
+    "opening_hours": "10:30-17:30",
+    "ticket_cost": 25,
+    "description": "Leading museum of modern and contemporary art, featuring works by Van Gogh, Picasso, and Warhol."
+  },
+  {
+    "name": "India Gate",
+    "city": "New Delhi",
+    "category": ["Monument", "landmark", "culture", "history"],
+    "coordinates": {"lat": 28.6129, "lng": 77.2295},
+    "duration": 60,
+    "opening_hours": "00:00-23:59",
+    "ticket_cost": 0,
+    "description": "A war memorial honoring soldiers, surrounded by gardens and a popular spot for evening strolls."
+  },
+  {
+    "name": "Red Fort",
+    "city": "New Delhi",
+    "category": ["Fort", "history", "culture"],
+    "coordinates": {"lat": 28.6562, "lng": 77.2410},
+    "duration": 120,
+    "opening_hours": "09:30-16:30",
+    "ticket_cost": 8,
+    "description": "Historic Mughal fort with impressive red sandstone walls and museums showcasing India’s history."
+  },
+  {
+    "name": "Qutub Minar",
+    "city": "New Delhi",
+    "category": ["Monument", "landmark", "culture", "history"],
+    "coordinates": {"lat": 28.5244, "lng": 77.1855},
+    "duration": 60,
+    "opening_hours": "07:00-17:00",
+    "ticket_cost": 5,
+    "description": "A UNESCO World Heritage site, the tallest brick minaret in the world, adorned with intricate carvings."
+  },
+  {
+    "name": "Lotus Temple",
+    "city": "New Delhi",
+    "category": ["Temple", "landmark", "culture", "history"],
+    "coordinates": {"lat": 28.5535, "lng": 77.2588},
+    "duration": 60,
+    "opening_hours": "09:00-19:00",
+    "ticket_cost": 0,
+    "description": "A Bahá'í House of Worship famous for its lotus-like architecture and serene meditation environment."
+  },
+  {
+    "name": "Humayun's Tomb",
+    "city": "New Delhi",
+    "category": ["Mausoleum", "landmark", "culture", "history"],
+    "coordinates": {"lat": 28.5933, "lng": 77.2507},
+    "duration": 90,
+    "opening_hours": "06:00-18:00",
+    "ticket_cost": 5,
+    "description": "Mughal-era mausoleum and UNESCO site, known for its beautiful gardens and Persian-style architecture."
+  },
+  {
+    "name": "Akshardham Temple",
+    "city": "New Delhi",
+    "category": ["Temple", "landmark", "culture", "history"],
+    "coordinates": {"lat": 28.6127, "lng": 77.2773},
+    "duration": 120,
+    "opening_hours": "09:30-18:30",
+    "ticket_cost": 10,
+    "description": "Grand Hindu temple complex with intricate carvings, exhibitions, and a musical fountain show."
+  },
+  {
+    "name": "Connaught Place",
+    "city": "New Delhi",
+    "category": ["Shopping", "Food"],
+    "coordinates": {"lat": 28.6315, "lng": 77.2167},
+    "duration": 120,
+    "opening_hours": "10:00-22:00",
+    "ticket_cost": 0,
+    "description": "A central business and shopping hub with colonial architecture, markets, cafes, and restaurants."
+  },
+  {
+    "name": "Jama Masjid",
+    "city": "New Delhi",
+    "category": ["Mosque", "culture", "history"],
+    "coordinates": {"lat": 28.6507, "lng": 77.2334},
+    "duration": 60,
+    "opening_hours": "07:00-19:00",
+    "ticket_cost": 3,
+    "description": "One of India’s largest mosques, built by Shah Jahan, with impressive domes and a large courtyard."
+  },
+  {
+    "name": "Raj Ghat",
+    "city": "New Delhi",
+    "category": ["Memorial", "history"],
+    "coordinates": {"lat": 28.6268, "lng": 77.2432},
+    "duration": 30,
+    "opening_hours": "06:00-19:00",
+    "ticket_cost": 0,
+    "description": "The memorial site of Mahatma Gandhi, surrounded by tranquil gardens and water features."
+  },
+  {
+    "name": "National Museum, New Delhi",
+    "city": "New Delhi",
+    "category": ["Museum", "art", "history"],
+    "coordinates": {"lat": 28.6124, "lng": 77.2195},
+    "duration": 120,
+    "opening_hours": "10:00-17:00",
+    "ticket_cost": 7,
+    "description": "Showcases India’s rich heritage with artifacts ranging from prehistoric times to modern era."
+  }
+]
